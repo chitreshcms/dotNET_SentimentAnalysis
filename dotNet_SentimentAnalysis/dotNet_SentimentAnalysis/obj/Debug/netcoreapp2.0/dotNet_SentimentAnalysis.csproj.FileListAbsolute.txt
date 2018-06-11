@@ -1,0 +1,13 @@
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\bin\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.deps.json
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\bin\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.runtimeconfig.json
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\bin\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.runtimeconfig.dev.json
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\bin\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.dll
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\obj\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.csprojAssemblyReference.cache
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\obj\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\obj\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.AssemblyInfoInputs.cache
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\obj\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.AssemblyInfo.cs
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\bin\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.pdb
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\obj\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.dll
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\obj\Debug\netcoreapp2.0\dotNet_SentimentAnalysis.pdb
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\bin\Debug\netcoreapp2.0\Data\wikipedia-detox-250-line-data.tsv
+C:\Users\chitreshsharma\Desktop\dotNetML\dotNetSentimentAnalysis\dotNet_SentimentAnalysis\dotNet_SentimentAnalysis\bin\Debug\netcoreapp2.0\Data\wikipedia-detox-250-line-test.tsv

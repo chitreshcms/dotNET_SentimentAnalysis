@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotNet_SentimentAnalysis", "dotNet_SentimentAnalysis\dotNet_SentimentAnalysis.csproj", "{311A166B-02A7-45A0-9305-9F3D9D0AB1AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{6028395F-744F-46A2-98D1-37CE7859FD2B}"
+	ProjectSection(SolutionItems) = preProject
+		..\data\wikipedia-detox-250-line-data.tsv = ..\data\wikipedia-detox-250-line-data.tsv
+		..\data\wikipedia-detox-250-line-test.tsv = ..\data\wikipedia-detox-250-line-test.tsv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{311A166B-02A7-45A0-9305-9F3D9D0AB1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311A166B-02A7-45A0-9305-9F3D9D0AB1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311A166B-02A7-45A0-9305-9F3D9D0AB1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311A166B-02A7-45A0-9305-9F3D9D0AB1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8A3EB9-3179-4FEB-8A57-3930402595F9}
+	EndGlobalSection
+EndGlobal
